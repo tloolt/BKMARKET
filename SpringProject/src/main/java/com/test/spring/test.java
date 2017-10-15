@@ -17,6 +17,8 @@ public class test {
 		System.out.println("테스트22"+2);
 		System.out.println("테스트22"+2);
 		System.out.println("테스트22"+2);
+		System.out.println("테스트22"+2);
+		
 		
 
 	}
