@@ -17,6 +17,11 @@ public class test {
 <<<<<<< HEAD
 =======
 		System.out.println("테스트22"+2);
+<<<<<<< HEAD
+>>>>>>> branch 'master' of https://github.com/tloolt/BKMARKET.git
+=======
+		System.out.println("테스트22"+2);
+		System.out.println("테스트22"+2);
 >>>>>>> branch 'master' of https://github.com/tloolt/BKMARKET.git
 		
 
