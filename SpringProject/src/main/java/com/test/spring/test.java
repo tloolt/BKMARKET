@@ -8,6 +8,7 @@ public class test {
 		System.out.println("한글");
 		System.out.println("한글 테스트	");
 		System.out.println("키키키키키킹");
+		System.out.println("테스트");
 		
 		
 
